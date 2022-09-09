@@ -3,7 +3,7 @@
 
 My user name is romeroresek this is my ✨ _special_ ✨ repository<br>
 
-🔭 I’m currently working on web development<br>
+🔭 I’m currently working as a web developer<br>
 🌱 I’m currently learning React JS, Javascript, Typescript, MySQL, HTML, CSS, Bootstrap<br>
 👯 I’m looking to collaborate on React JS projects<br>
 📞 How to reach me on whatsapp: +543764606708<br>
@@ -17,8 +17,4 @@ My user name is romeroresek this is my ✨ _special_ ✨ repository<br>
 - [PHP y MySQL Intermediate UTN](http://portafolio.ar/php_intermedio_utn/)<br>
 - [Introducción Programación_ Silicón Misiones](http://portafolio.ar/intro_siliconMisiones/)<br>
 
-📚 My repository list 
-
-Read more...👇
-             
-            
+📚 My repository list 👇
