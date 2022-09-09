@@ -10,11 +10,11 @@ My user name is romeroresek this is my ✨ _special_ ✨ repository<br>
 
 💼 Portfolio links<br>
 
-- [Torneito](http://torneito.com.ar)<br>
+- [Tournament draw](http://torneito.com.ar)<br>
 - [Ecommerce](http://portafolio.ar/ecommerce_utn/)<br>
 - [Javascript UTN](http://portafolio.ar/javascript_utn/)<br>
-- [PHP y MySQL Avanzado UTN](http://portafolio.ar/php_avanzado_utn/)<br>
-- [PHP y MySQL Intermedio UTN](http://portafolio.ar/php_intermedio_utn/)<br>
+- [PHP y MySQL Advanced UTN](http://portafolio.ar/php_avanzado_utn/)<br>
+- [PHP y MySQL Intermediate UTN](http://portafolio.ar/php_intermedio_utn/)<br>
 - [Introducción Programación_ Silicón Misiones](http://portafolio.ar/intro_siliconMisiones/)<br>
 
 My repository list 👇 
