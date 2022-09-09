@@ -19,6 +19,6 @@ My user name is romeroresek this is my ✨ _special_ ✨ repository<br>
 
 📚 My repository list 
 
-Read more...<br>
-             👇
+Read more...👇
+             
             
