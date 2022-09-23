@@ -18,7 +18,7 @@ My user name is romeroresek this is my ✨ _special_ ✨ repository<br>
 🌐 Visit my Websites <br>
 - [Portfolio - React JS](http://portafolio.portafolio.ar)
 - [Cryptocurrency - React JS](http://criptos.portafolio.ar)
-- [Mi Negocio - React JS](http://minegocio.portafolio.ar)
+- [E-commerce - React JS](http://minegocio.portafolio.ar)
 - [Tennis Tournament draw](http://torneito.com.ar)<br>
 - [Lawyer site](http://yawny.com.ar/)<br>
 - [PHP y MySQL Advanced exercises](http://portafolio.ar/php_avanzado_utn/)<br>
