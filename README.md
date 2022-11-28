@@ -10,4 +10,6 @@ I feel more comfortable working in development teams than individually. I am pro
 
 Full Stack Developer SQL, Express JS, React JS, Node JS
 
-💼 [Portfolio](https://portafolio.ar)
+💼 My Projects
+
+[Portfolio](https://portafolio.ar) | [MisDev Tech Startup](https://minegociofront-production.up.railway.app) | [Task List](https://todon.up.railway.app/)
