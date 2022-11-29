@@ -9,4 +9,4 @@ I feel more comfortable working in development teams than individually. I am pro
 
 💼 My Projects
 
-[Portfolio](https://portafolio.ar) | [MisDev Tech Startup](https://misdevreact.herokuapp.com/) | [Task List](https://todon.up.railway.app/) | [Another Portfolio](https://portafolio.portafolio.ar)
+[Portfolio](https://juanromero.ar) | [MisDev Tech Startup](https://misdev.juanromero.ar) | [Task List](https://task.juanromero.ar) | [Another Portfolio](https://portafolio.juanromero.ar)
